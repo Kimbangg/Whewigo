@@ -46,18 +46,17 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://kimbangg.tistory.com/"><img src="https://avatars.githubusercontent.com/u/49136186?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kimbangg</b></sub></a><br /><a href="https://github.com/Kimbangg/Whewigo/commits?author=Kimbangg" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/kimbangg"><img src="https://avatars.githubusercontent.com/u/49136186?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kimbangg</b></sub></a><br /><a href="https://github.com/Kimbangg/Whewigo/commits?author=Kimbangg" title="Code">💻</a></td>
 
-    <td align="center"><a href="https://github.com/leejjin"><img src="https://avatars.githubusercontent.com/u/43690969?v=4?s=100" width="100px;" alt=""/><br /><sub><b>YUJIN</b></sub></a><br /><a href="https://github.com/Kimbangg/Whewigo/commits?author=leejjin" title="Code">💻</a></td>
+   <td align="center"><a href="https://github.com/leejjin"><img src=" https://avatars.githubusercontent.com/u/43690969?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kimbangg</b></sub></a><br /><a href="https://github.com/Kimbangg/Whewigo/commits?author=Kimbangg" title="Code">💻</a></td>
 
+   
+   <td align="center"><a href="https://true-bird.tistory.com/"><img src="https://avatars.githubusercontent.com/u/25261274?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kimbangg</b></sub></a><br /><a href="https://github.com/Kimbangg/Whewigo/commits?author=Kimbangg" title="Code">💻</a></td>
 
-    <td align="center"><a href="https://true-bird.tistory.com/"><img src="https://avatars.githubusercontent.com/u/25261274?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Hyunwoo Ju</b></sub></a><br /><a href="https://github.com/Kimbangg/Whewigo/commits?author=true-bird" title="Code">💻</a></td>
-
-    <td align="center"><a href="http://pkeugine.com"><img src="https://avatars.githubusercontent.com/u/48251668?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Eugine Park</b></sub></a><br /><a href="https://github.com/Kimbangg/Whewigo/commits?author=pkeugine" title="Code">💻</a></td>
-
-
-    <td align="center"><a href="http://pkeugine.com"><img src="https://avatars.githubusercontent.com/u/48251668?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Eugine Park</b></sub></a><br /><a href="https://github.com/Kimbangg/Whewigo/commits?author=pkeugine" title="Code">💻</a></td>
-    <td align="center"><a href="https://eungzy.tistory.com/"><img src="https://avatars.githubusercontent.com/u/50447682?v=4?s=100" width="100px;" alt=""/><br /><sub><b>EUNJI LEE</b></sub></a><br /><a href="https://github.com/Kimbangg/Whewigo/commits?author=eeeun-ji" title="Code">💻</a></td>
+   
+   <td align="center"><a href="//pkeugine.com"><img src="https://avatars.githubusercontent.com/u/48251668?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kimbangg</b></sub></a><br /><a href="https://github.com/Kimbangg/Whewigo/commits?author=Kimbangg" title="Code">💻</a></td>
+  
+   <td align="center"><a href="https://eungzy.tistory.com/"><img src="https://avatars.githubusercontent.com/u/50447682?v=4?s=100" width="100px;" alt=""/><br /><sub><b>EUNJI LEE</b></sub></a><br /><a href="https://github.com/Kimbangg/Whewigo/commits?author=eeeun-ji" title="Code">💻</a></td>
 
   </tr>
 </table>
