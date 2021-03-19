@@ -1,6 +1,6 @@
 # Just go
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 > Helps you schedule your trip by providing information about your nearby restaurants, entertainment, and accommodation based on your current location
 
@@ -47,6 +47,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://kimbangg.tistory.com/"><img src="https://avatars.githubusercontent.com/u/49136186?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Kimbangg</b></sub></a><br /><a href="https://github.com/Kimbangg/Whewigo/commits?author=Kimbangg" title="Code">💻</a></td>
+    <td align="center"><a href="http://pkeugine.com"><img src="https://avatars.githubusercontent.com/u/48251668?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Eugine Park</b></sub></a><br /><a href="https://github.com/Kimbangg/Whewigo/commits?author=pkeugine" title="Code">💻</a></td>
   </tr>
 </table>
 
